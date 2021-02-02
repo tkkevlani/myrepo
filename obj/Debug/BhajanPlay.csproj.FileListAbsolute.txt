@@ -1,0 +1,13 @@
+C:\Users\farhan\documents\visual studio 2015\Projects\BhajanPlay\bin\Debug\BhajanPlay.exe.config
+C:\Users\farhan\documents\visual studio 2015\Projects\BhajanPlay\bin\Debug\BhajanPlay.exe
+C:\Users\farhan\documents\visual studio 2015\Projects\BhajanPlay\bin\Debug\BhajanPlay.pdb
+C:\Users\farhan\documents\visual studio 2015\Projects\BhajanPlay\obj\Debug\BhajanPlay.csprojResolveAssemblyReference.cache
+C:\Users\farhan\documents\visual studio 2015\Projects\BhajanPlay\obj\Debug\BhajanPlay.ProjectInstaller.resources
+C:\Users\farhan\documents\visual studio 2015\Projects\BhajanPlay\obj\Debug\BhajanPlay.csproj.GenerateResource.Cache
+C:\Users\farhan\documents\visual studio 2015\Projects\BhajanPlay\obj\Debug\BhajanPlay.exe
+C:\Users\farhan\documents\visual studio 2015\Projects\BhajanPlay\obj\Debug\BhajanPlay.pdb
+C:\Users\farhan\documents\visual studio 2015\Projects\BhajanPlay\obj\Debug\Interop.WMPLib.dll
+C:\Users\farhan\documents\visual studio 2015\Projects\BhajanPlay\obj\Debug\BhajanPlay.csproj.ResolveComReference.cache
+C:\Users\farhan\documents\visual studio 2015\Projects\BhajanPlay\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\farhan\documents\visual studio 2015\Projects\BhajanPlay\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\farhan\documents\visual studio 2015\Projects\BhajanPlay\obj\Debug\Interop.WMPLauncher.dll
